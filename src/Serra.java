@@ -3,5 +3,6 @@ public class Serra {
         System.out.println("Deneme");
         System.out.println("Deneme iki");
         System.out.println("Deneme uc");
+        System.out.println("Deneme dort");
     }
 }
